@@ -1,0 +1,16 @@
+C:\Users\gsida\Desktop\Repo\Loops loop\obj\Debug\net5.0\Loops loop.csproj.AssemblyReference.cache
+C:\Users\gsida\Desktop\Repo\Loops loop\obj\Debug\net5.0\Loops loop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gsida\Desktop\Repo\Loops loop\obj\Debug\net5.0\Loops loop.AssemblyInfoInputs.cache
+C:\Users\gsida\Desktop\Repo\Loops loop\obj\Debug\net5.0\Loops loop.AssemblyInfo.cs
+C:\Users\gsida\Desktop\Repo\Loops loop\obj\Debug\net5.0\Loops loop.csproj.CoreCompileInputs.cache
+C:\Users\gsida\Desktop\Repo\Loops loop\bin\Debug\net5.0\Loops loop.exe
+C:\Users\gsida\Desktop\Repo\Loops loop\bin\Debug\net5.0\Loops loop.deps.json
+C:\Users\gsida\Desktop\Repo\Loops loop\bin\Debug\net5.0\Loops loop.runtimeconfig.json
+C:\Users\gsida\Desktop\Repo\Loops loop\bin\Debug\net5.0\Loops loop.runtimeconfig.dev.json
+C:\Users\gsida\Desktop\Repo\Loops loop\bin\Debug\net5.0\Loops loop.dll
+C:\Users\gsida\Desktop\Repo\Loops loop\bin\Debug\net5.0\ref\Loops loop.dll
+C:\Users\gsida\Desktop\Repo\Loops loop\bin\Debug\net5.0\Loops loop.pdb
+C:\Users\gsida\Desktop\Repo\Loops loop\obj\Debug\net5.0\Loops loop.dll
+C:\Users\gsida\Desktop\Repo\Loops loop\obj\Debug\net5.0\ref\Loops loop.dll
+C:\Users\gsida\Desktop\Repo\Loops loop\obj\Debug\net5.0\Loops loop.pdb
+C:\Users\gsida\Desktop\Repo\Loops loop\obj\Debug\net5.0\Loops loop.genruntimeconfig.cache
